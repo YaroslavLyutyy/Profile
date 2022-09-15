@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebdec617-82a5-4c31-8b95-5fe0518b789c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/main/java/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/main/java/todo/ToDoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/test/java/google/GoogleSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/test/java/todo/ToDoListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/test/java/webui/HtmlTagsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/src/test/java/webui/StudentsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/target/classes/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/target/classes/todo/ToDoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/target/test-classes/todo/ToDoListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/target/test-classes/webui/HtmlTagsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/Java_Hillel2/target/test-classes/webui/StudentsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/src/test/java/webui/StudentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hillel2/Java_Hillel2/src/test/java/webui/StudentsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Eo2T8YWyV2btxG7Jb6yvLZVn8p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/yaroslavlyutyy/Desktop/Portfolio"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebdec617-82a5-4c31-8b95-5fe0518b789c" name="Changes" comment="" />
+      <created>1663247621325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663247621325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

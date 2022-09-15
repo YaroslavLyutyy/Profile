@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Java_Hillel_Test2" />
+        <module name="Java_Hillel2" />
       </profile>
     </annotationProcessing>
   </component>
