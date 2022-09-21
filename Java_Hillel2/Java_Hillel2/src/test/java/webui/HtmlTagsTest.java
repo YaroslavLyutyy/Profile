@@ -2,12 +2,19 @@ package webui;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+import todo.ToDoList;
 import webui.exceprions.CustomAssertionError;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 public class HtmlTagsTest {
     //    1. All JS on page are imported as files
@@ -51,8 +58,13 @@ public class HtmlTagsTest {
 
     @Test
     public void checkUniqueIDs() {
-        driver.findElements(By.cssSelector("*[id]"));
-
+        List<WebElement> elementsWithId = driver.findElements(By.cssSelector("*[id]"));
+        List<String> ids = new ArrayList<>();
+        for (WebElement el: elementsWithId) {
+            ids.add(el.getAttribute("id"));
+        }
+        Set <String> idsUnique = new HashSet<>(ids);
+        Assert.assertEquals(idsUnique.size(), ids.size());
     }
 
     @BeforeClass
@@ -64,7 +76,8 @@ public class HtmlTagsTest {
 
     @AfterClass
     public void teardown() {
-        driver.close();
+
+        driver.quit();
     }
 }
 

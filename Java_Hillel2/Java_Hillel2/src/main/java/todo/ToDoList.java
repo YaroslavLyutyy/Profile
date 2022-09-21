@@ -21,4 +21,6 @@ public class ToDoList {
     public List<String> getTodos() {
         return this.todos;
     }
+
+    public static void aaa () {}
 }
