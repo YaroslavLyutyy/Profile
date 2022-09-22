@@ -1,6 +1,5 @@
 package google.page;
 
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 
 import java.util.List;
